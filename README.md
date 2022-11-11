@@ -1,6 +1,6 @@
 # FooDapp
 
-網多實驗 Final Project. Using the block-chain technique to create a D-app in place of platform like food-panda, Uber-Eat.
+Using the block-chain technique to create a D-app in place of platform like food-panda, Uber-Eat.
 
 ## 環境與操作方法
 1. 安裝truffle, ganache, metamask 及 Node.js
